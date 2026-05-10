@@ -1,4 +1,4 @@
-# TactileRoboticArm | 基于 Intel RealSense、OpenCV 与 MediaPipe 的体感机械臂
+# 基于 Intel RealSense、OpenCV 与 MediaPipe 的体感机械臂
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python Version">
