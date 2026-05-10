@@ -138,4 +138,4 @@ uv run main.py
 - [MediaPipe](https://google.github.io/mediapipe/)
 - [Intel RealSense SDK](https://github.com/IntelRealSense/librealsense)
 - [IKPy](https://github.com/Phylliade/ikpy)
-- [Yahboom Dofbot](http://www.yahboom.com/project/dofbot)
+- [Yahboom Dofbot](https://github.com/YahboomTechnology/dofbot-jetson_nano)
