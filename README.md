@@ -135,7 +135,7 @@ uv run main.py
 
 ## 🙏 鸣谢
 
-- [MediaPipe](https://google.github.io/mediapipe/)
+- [MediaPipe](https://github.com/google-ai-edge/mediapipe)
 - [Intel RealSense SDK](https://github.com/IntelRealSense/librealsense)
 - [IKPy](https://github.com/Phylliade/ikpy)
 - [Yahboom Dofbot](https://github.com/YahboomTechnology/dofbot-jetson_nano)
